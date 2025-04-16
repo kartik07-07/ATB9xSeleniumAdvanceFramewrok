@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/kartik/IdeaProjects/ATB9xSeleniumAdvanceFramewrok/src/test/java/com/kartik/Test/tests/VwoTestCases/TestVWOlogin_05_POM_PropertyReader_DriverManager.java"><classes>
+    <class name="com.kartik.Test.tests.VwoTestCases.TestVWOlogin_05_POM_PropertyReader_DriverManager"><methods><include name="testLoginNegativeVWO"/>
+        <include name="testLoginPositiveVWO"/>
+    </methods>
+    </class>
+</classes>
+</test>
+</suite>
